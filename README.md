@@ -169,19 +169,19 @@ Especialmente:
 
 ## 🔍 Hipótesis planteadas
 
-1. Las líneas con mayor frecuencia tienen más viajeros
-2. La tarjeta Barik es el método de pago dominante
-3. Existe estacionalidad en la demanda
-4. El número de viajes influye directamente en el número de viajeros
+1. Los títulos para jovenes representan un 15% del total
+2. Las líneas que unen Bilbao están más saturadas
+3. Existe estacionalidad en el uso del autobús
+4. El subsidio del 50% aplicado en 2022 favoreció el uso del transporte público
 
 ---
 
 ## ✅ Resultados
 
-* ✔ Predominio claro del uso de tarjeta frente a billete ocasional
-* ✔ Relación positiva entre número de viajes y número de viajeros
+* X No supera el umbral del 15%
+* ✔ Existe ralación entre la saturación y que la línea conecte con Bilbao
 * ✔ Existencia de patrones estacionales
-* ✔ Concentración de la demanda en determinadas líneas
+* ✔ El subsidio  favoreció el uso del autobús
 
 ---
 
