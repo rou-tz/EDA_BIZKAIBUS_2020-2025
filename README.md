@@ -1,4 +1,7 @@
 # 🚌 Bizkaibus EDA – Análisis Exploratorio de Datos
+##  Presentación
+
+https://edabizkaibus.lovable.app
 
 ## 📌 Descripción del proyecto
 
